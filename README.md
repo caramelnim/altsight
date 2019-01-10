@@ -1,2 +1,2 @@
 # altsight
-Deep learning framework for object detection.
+Open source deep learning framework for object detection.
